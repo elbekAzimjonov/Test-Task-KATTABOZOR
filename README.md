@@ -1,6 +1,6 @@
 # Test-Task-KATTABOZOR
 
-I have created this test task to demonstrate my knowledge and experience for KATTABOZOR.
+I have created this test task to demonstrate my knowledge and experience for the KATTABOZOR marketplace.
 
 # Task
 
