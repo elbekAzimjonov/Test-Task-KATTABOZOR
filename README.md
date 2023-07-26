@@ -15,7 +15,7 @@ API -> https://www.kattabozor.uz/hh/test/api/v1/offers
 
 # Tech Stack
 
-- Architectural Pattern: Clean Architecture, MVVM
+- Architectural Pattern: Multi-module->Clean Architecture, MVVM
 - UI: XML, Material3
 - Dependency Injection: Hilt
 - Concurrency: Kotlin Coroutines, Kotlin Flows
